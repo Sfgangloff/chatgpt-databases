@@ -1,0 +1,87 @@
+sections:
+- number: 1
+  subsections:
+  - number: 1
+    title: Overview
+  - number: 2
+    title: Historical Background
+  title: Introduction
+- number: 2
+  subsections:
+  - number: 1
+    title: Cell Structure
+  - number: 2
+    title: DNA Structure and Replication
+  - number: 3
+    title: RNA Structure and Transcription
+  - number: 4
+    title: Protein Structure and Translation
+  title: Basic Concepts
+- number: 3
+  subsections:
+  - number: 1
+    title: Mendelian Genetics
+  - number: 2
+    title: Genetic Variation and Mutation
+  - number: 3
+    title: Genetic Engineering
+  title: Genetics
+- number: 4
+  subsections:
+  - number: 1
+    title: Regulation of Gene Expression
+  - number: 2
+    title: Transcription Factors and Gene Networks
+  - number: 3
+    title: Epigenetics
+  title: Gene Expression
+- number: 5
+  subsections:
+  - number: 1
+    title: Genome Sequencing
+  - number: 2
+    title: Comparative Genomics
+  - number: 3
+    title: Functional Genomics
+  title: Genomics
+- number: 6
+  subsections:
+  - number: 1
+    title: Protein Identification and Characterization
+  - number: 2
+    title: Protein-Protein Interactions
+  - number: 3
+    title: Protein Structure Prediction
+  title: Proteomics
+- number: 7
+  subsections:
+  - number: 1
+    title: Recombinant DNA Technology
+  - number: 2
+    title: PCR and DNA Amplification
+  - number: 3
+    title: Gene Therapy
+  title: Biotechnology
+- number: 8
+  subsections:
+  - number: 1
+    title: Medical Applications
+  - number: 2
+    title: Agricultural Applications
+  - number: 3
+    title: Industrial Applications
+  title: Applications
+- number: 9
+  subsections:
+  - number: 1
+    title: Ethical Issues in Molecular Biology
+  - number: 2
+    title: Biosecurity and Dual-Use Research
+  title: Ethical Considerations
+- number: 10
+  subsections:
+  - number: 1
+    title: Emerging Technologies
+  - number: 2
+    title: Challenges and Opportunities
+  title: Future Perspectives
