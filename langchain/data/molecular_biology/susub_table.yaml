@@ -1,0 +1,663 @@
+sections:
+- number: 1
+  subsections:
+  - number: 1
+    subsubsections:
+    - number: 1
+      title: Introduction to Molecular Biology
+    - number: 2
+      title: Importance of Molecular Biology
+    - number: 3
+      title: Scope of Molecular Biology
+    - number: 4
+      title: Basic Concepts in Molecular Biology
+    - number: 5
+      title: Applications of Molecular Biology
+    title: Overview
+  - number: 2
+    subsubsections:
+    - number: 1
+      title: Discovery of DNA
+    - number: 2
+      title: Central Dogma of Molecular Biology
+    - number: 3
+      title: Genetic Code
+    - number: 4
+      title: Development of Molecular Biology Techniques
+    - number: 5
+      title: Impact of Molecular Biology on Medicine
+    title: Historical Background
+  - number: 3
+    subsubsections:
+    - number: 1
+      title: Genetic Code
+    - number: 2
+      title: Central Dogma
+    - number: 3
+      title: Gene Expression
+    - number: 4
+      title: DNA Replication
+    - number: 5
+      title: Protein Synthesis
+    title: Key Concepts
+  - number: 4
+    subsubsections:
+    - number: 1
+      title: DNA Sequencing
+    - number: 2
+      title: Polymerase Chain Reaction (PCR)
+    - number: 3
+      title: Gel Electrophoresis
+    - number: 4
+      title: Cloning
+    - number: 5
+      title: Protein Purification
+    title: Techniques and Tools
+  - number: 5
+    subsubsections:
+    - number: 1
+      title: Research Ethics
+    - number: 2
+      title: Informed Consent
+    - number: 3
+      title: Data Privacy
+    - number: 4
+      title: Animal Welfare
+    - number: 5
+      title: Dual Use Research
+    title: Ethical Considerations
+  title: Introduction
+- number: 2
+  subsections:
+  - number: 1
+    subsubsections:
+    - number: 1
+      title: DNA Structure
+    - number: 2
+      title: DNA Replication
+    - number: 3
+      title: Enzymes Involved in Replication
+    - number: 4
+      title: Regulation of Replication
+    - number: 5
+      title: Replication Errors and Repair Mechanisms
+    title: DNA Structure
+  - number: 2
+    subsubsections:
+    - number: 1
+      title: Initiation of Replication
+    - number: 2
+      title: Elongation of Replication
+    - number: 3
+      title: Termination of Replication
+    - number: 4
+      title: Proofreading and Error Correction
+    - number: 5
+      title: Telomere Replication
+    title: DNA Replication
+  - number: 3
+    subsubsections:
+    - number: 1
+      title: DNA Polymerase
+    - number: 2
+      title: Helicase
+    - number: 3
+      title: Primase
+    - number: 4
+      title: Ligase
+    - number: 5
+      title: Topoisomerase
+    title: Enzymes Involved in Replication
+  - number: 4
+    subsubsections:
+    - number: 4
+      title: Initiation of Replication
+    - number: 5
+      title: Termination of Replication
+    - number: 6
+      title: Regulatory Proteins
+    - number: 7
+      title: Cell Cycle Control
+    - number: 8
+      title: DNA Damage Response
+    title: Regulation of Replication
+  - number: 5
+    subsubsections:
+    - number: 1
+      title: Proofreading
+    - number: 2
+      title: Mismatch Repair
+    - number: 3
+      title: Base Excision Repair
+    - number: 4
+      title: Nucleotide Excision Repair
+    - number: 5
+      title: Homologous Recombination
+    title: Replication Errors and Repair Mechanisms
+  title: DNA Structure and Replication
+- number: 3
+  subsections:
+  - number: 1
+    subsubsections:
+    - number: 2
+      title: Initiation
+    - number: 3
+      title: Elongation
+    - number: 4
+      title: Termination
+    - number: 5
+      title: Post-transcriptional Modifications
+    title: Transcription Process
+  - number: 2
+    subsubsections:
+    - number: 1
+      title: RNA Polymerase
+    - number: 2
+      title: General Transcription Factors
+    - number: 3
+      title: Specific Transcription Factors
+    - number: 4
+      title: Transcription Factor Binding Sites
+    - number: 5
+      title: Transcription Factor Regulation
+    title: RNA Polymerase and Transcription Factors
+  - number: 3
+    subsubsections:
+    - number: 1
+      title: Capping
+    - number: 2
+      title: Splicing
+    - number: 3
+      title: Polyadenylation
+    - number: 4
+      title: Editing
+    - number: 5
+      title: Transport
+    title: RNA Processing
+  - number: 4
+    subsubsections:
+    - number: 1
+      title: Transcription Factors
+    - number: 2
+      title: Promoter Elements
+    - number: 3
+      title: Enhancers and Silencers
+    - number: 4
+      title: Transcriptional Activators
+    - number: 5
+      title: Transcriptional Repressors
+    title: Regulation of Transcription
+  - number: 5
+    subsubsections:
+    - number: 1
+      title: Exon Skipping
+    - number: 2
+      title: Intron Retention
+    - number: 3
+      title: Alternative 5' Splice Site
+    - number: 4
+      title: Alternative 3' Splice Site
+    - number: 5
+      title: Mutually Exclusive Exons
+    title: Alternative Splicing
+  title: Transcription and RNA Processing
+- number: 4
+  subsections:
+  - number: 1
+    subsubsections:
+    - number: 1
+      title: Ribosomes and tRNA
+    - number: 2
+      title: Initiation, Elongation, and Termination
+    - number: 3
+      title: Post-Translational Modifications
+    - number: 4
+      title: Regulation of Translation
+    - number: 5
+      title: Translation Process
+    title: Translation Process
+  - number: 2
+    subsubsections:
+    - number: 1
+      title: Ribosome Structure
+    - number: 2
+      title: Ribosome Function
+    - number: 3
+      title: tRNA Structure
+    - number: 4
+      title: tRNA Charging
+    - number: 5
+      title: tRNA Recognition
+    title: Ribosomes and tRNA
+  - number: 3
+    subsubsections:
+    - number: 1
+      title: Initiation
+    - number: 2
+      title: Elongation
+    - number: 3
+      title: Termination
+    title: Initiation, Elongation, and Termination
+  - number: 4
+    subsubsections:
+    - number: 1
+      title: Phosphorylation
+    - number: 2
+      title: Glycosylation
+    - number: 3
+      title: Acetylation
+    - number: 4
+      title: Methylation
+    - number: 5
+      title: Ubiquitination
+    title: Post-Translational Modifications
+  - number: 5
+    subsubsections:
+    - number: 1
+      title: Translational Control
+    - number: 2
+      title: RNA Binding Proteins
+    - number: 3
+      title: mRNA Stability
+    - number: 4
+      title: Translational Repressors
+    - number: 5
+      title: Translational Activators
+    title: Regulation of Translation
+  title: Translation and Protein Synthesis
+- number: 5
+  subsections:
+  - number: 1
+    subsubsections:
+    - number: 1
+      title: Promoter Elements
+    - number: 2
+      title: Transcription Factors
+    - number: 3
+      title: Enhancers and Silencers
+    - number: 4
+      title: Coactivators and Corepressors
+    - number: 5
+      title: Transcriptional Regulation Complexes
+    title: Transcriptional Regulation
+  - number: 2
+    subsubsections:
+    - number: 1
+      title: DNA Methylation
+    - number: 2
+      title: Histone Modification
+    - number: 3
+      title: Chromatin Remodeling
+    - number: 4
+      title: Non-Coding RNA Regulation
+    - number: 5
+      title: Epigenetic Inheritance
+    title: Epigenetic Regulation
+  - number: 3
+    subsubsections:
+    - number: 1
+      title: mRNA Processing
+    - number: 2
+      title: mRNA Stability
+    - number: 3
+      title: RNA Editing
+    - number: 4
+      title: RNA Splicing
+    - number: 5
+      title: RNA Localization
+    title: Post-Transcriptional Regulation
+  - number: 4
+    subsubsections:
+    - number: 1
+      title: Transcription Factor Networks
+    - number: 2
+      title: Signal Transduction Networks
+    - number: 3
+      title: Metabolic Networks
+    - number: 4
+      title: Cell Signaling Networks
+    - number: 5
+      title: Protein-Protein Interaction Networks
+    title: Regulatory Networks
+  - number: 5
+    subsubsections:
+    - number: 1
+      title: Embryonic Gene Activation
+    - number: 2
+      title: Pattern Formation
+    - number: 3
+      title: Cell Differentiation
+    - number: 4
+      title: Morphogenesis
+    - number: 5
+      title: Homeotic Gene Regulation
+    title: Developmental Gene Regulation
+  title: Gene Regulation
+- number: 6
+  subsections:
+  - number: 1
+    subsubsections:
+    - number: 1
+      title: Single Nucleotide Polymorphisms (SNPs)
+    - number: 2
+      title: Insertions and Deletions (Indels)
+    - number: 3
+      title: Copy Number Variations (CNVs)
+    - number: 4
+      title: Structural Variations
+    - number: 5
+      title: Repeat Expansions
+    title: Types of Genetic Variation
+  - number: 2
+    subsubsections:
+    - number: 1
+      title: Types of Mutations
+    - number: 2
+      title: Causes of Mutations
+    - number: 3
+      title: Effects of Mutations
+    - number: 4
+      title: Methods of Mutagenesis
+    - number: 5
+      title: Detection of Mutations
+    title: Mutation and Mutagenesis
+  - number: 3
+    subsubsections:
+    - number: 3
+      title: Single Gene Disorders
+    - number: 4
+      title: Chromosomal Disorders
+    - number: 5
+      title: Multifactorial Disorders
+    - number: 6
+      title: Mitochondrial Disorders
+    - number: 7
+      title: Epigenetic Disorders
+    title: Genetic Diseases
+  - number: 4
+    subsubsections:
+    - number: 4
+      title: Preimplantation Genetic Testing
+    - number: 4
+      title: Carrier Testing
+    - number: 4
+      title: Prenatal Genetic Testing
+    - number: 4
+      title: Diagnostic Genetic Testing
+    - number: 4
+      title: Genetic Counseling
+    title: Genetic Testing and Counseling
+  - number: 5
+    subsubsections:
+    - number: 1
+      title: CRISPR-Cas9
+    - number: 2
+      title: Zinc Finger Nucleases
+    - number: 3
+      title: TALENs
+    - number: 4
+      title: Homologous Recombination
+    - number: 5
+      title: Applications of Genome Editing
+    title: Genome Editing
+  title: Genetic Variation and Mutation
+- number: 7
+  subsections:
+  - number: 1
+    subsubsections:
+    - number: 1
+      title: Sanger Sequencing
+    - number: 2
+      title: Next-Generation Sequencing
+    - number: 3
+      title: Third-Generation Sequencing
+    - number: 4
+      title: Metagenomic Sequencing
+    - number: 5
+      title: Single-Cell Sequencing
+    title: Genome Sequencing
+  - number: 2
+    subsubsections:
+    - number: 1
+      title: Gene Prediction
+    - number: 2
+      title: Functional Annotation
+    - number: 3
+      title: Structural Annotation
+    - number: 4
+      title: Comparative Annotation
+    - number: 5
+      title: Annotation Databases
+    title: Genome Annotation
+  - number: 3
+    subsubsections:
+    - number: 1
+      title: Evolutionary Relationships
+    - number: 2
+      title: Gene Duplication
+    - number: 3
+      title: Ortholog Identification
+    - number: 4
+      title: Synteny Analysis
+    - number: 5
+      title: Phylogenetic Tree Construction
+    title: Comparative Genomics
+  - number: 4
+    subsubsections:
+    - number: 1
+      title: Gene Expression Profiling
+    - number: 2
+      title: Proteomics
+    - number: 3
+      title: Metabolomics
+    - number: 4
+      title: Functional Genomic Screens
+    - number: 5
+      title: Gene Ontology Analysis
+    title: Functional Genomics
+  - number: 5
+    subsubsections:
+    - number: 1
+      title: Sequence Alignment Tools
+    - number: 2
+      title: Sequence Analysis Databases
+    - number: 3
+      title: Protein Structure Prediction Tools
+    - number: 4
+      title: Gene Expression Databases
+    - number: 5
+      title: Metagenomics Analysis Tools
+    title: Bioinformatics Tools and Databases
+  title: Genomics and Bioinformatics
+- number: 8
+  subsections:
+  - number: 1
+    subsubsections:
+    - number: 1
+      title: DNA Cloning
+    - number: 2
+      title: Restriction Enzymes
+    - number: 3
+      title: DNA Ligase
+    - number: 4
+      title: Plasmid Vectors
+    - number: 5
+      title: Transformation
+    title: Recombinant DNA Technology
+  - number: 2
+    subsubsections:
+    - number: 1
+      title: Gene Cloning Techniques
+    - number: 2
+      title: Expression Systems
+    - number: 3
+      title: Recombinant Protein Production
+    - number: 4
+      title: Gene Expression Regulation
+    - number: 5
+      title: Applications of Gene Cloning
+    title: Gene Cloning and Expression
+  - number: 3
+    subsubsections:
+    - number: 1
+      title: Gene Editing
+    - number: 2
+      title: Gene Therapy
+    - number: 3
+      title: Genetically Modified Organisms
+    - number: 4
+      title: Designer Babies
+    - number: 5
+      title: Ethical Considerations
+    title: Genetic Engineering
+  - number: 4
+    subsubsections:
+    - number: 1
+      title: Introduction to Transgenic Organisms
+    - number: 2
+      title: Methods of Creating Transgenic Organisms
+    - number: 3
+      title: Applications of Transgenic Organisms in Medicine
+    - number: 4
+      title: Applications of Transgenic Organisms in Agriculture
+    - number: 5
+      title: Ethical Considerations of Transgenic Organisms
+    title: Transgenic Organisms
+  - number: 5
+    subsubsections:
+    - number: 1
+      title: Medical Applications
+    - number: 2
+      title: Agricultural Applications
+    title: Applications in Medicine and Agriculture
+  title: Molecular Genetics and Biotechnology
+- number: 9
+  subsections:
+  - number: 1
+    subsubsections:
+    - number: 1
+      title: Cell Signaling Pathways
+    - number: 2
+      title: Signal Transduction
+    - number: 3
+      title: Receptor Proteins
+    - number: 4
+      title: Intracellular Signaling
+    - number: 5
+      title: Cell Signaling and Disease
+    title: Cell Communication
+  - number: 2
+    subsubsections:
+    - number: 1
+      title: G Protein-Coupled Receptors
+    - number: 2
+      title: Receptor Tyrosine Kinases
+    - number: 3
+      title: Second Messenger Systems
+    - number: 4
+      title: MAP Kinase Pathway
+    - number: 5
+      title: Notch Signaling
+    title: Signal Transduction Pathways
+  - number: 3
+    subsubsections:
+    - number: 1
+      title: G Protein-Coupled Receptors
+    - number: 2
+      title: Ion Channel Receptors
+    - number: 3
+      title: Enzyme-Linked Receptors
+    - number: 4
+      title: Nuclear Receptors
+    - number: 5
+      title: Cytokine Receptors
+    title: Receptor Proteins
+  - number: 4
+    subsubsections:
+    - number: 1
+      title: Second Messenger Signaling
+    - number: 2
+      title: Protein Kinase Signaling
+    - number: 3
+      title: G Protein Signaling
+    - number: 4
+      title: Calcium Signaling
+    - number: 5
+      title: MAP Kinase Signaling
+    title: Intracellular Signaling
+  - number: 5
+    subsubsections:
+    - number: 1
+      title: Cancer and Cell Signaling
+    - number: 2
+      title: Neurodegenerative Diseases and Cell Signaling
+    - number: 3
+      title: Cardiovascular Diseases and Cell Signaling
+    - number: 4
+      title: Immune Disorders and Cell Signaling
+    - number: 5
+      title: Metabolic Disorders and Cell Signaling
+    title: Cell Signaling and Disease
+  title: Cell Signaling and Signal Transduction
+- number: 10
+  subsections:
+  - number: 1
+    subsubsections:
+    - number: 1
+      title: Initiation
+    - number: 2
+      title: Promotion
+    - number: 3
+      title: Progression
+    - number: 4
+      title: Metastasis
+    - number: 5
+      title: Angiogenesis
+    title: Cancer Development and Progression
+  - number: 2
+    subsubsections:
+    - number: 1
+      title: Oncogenes
+    - number: 2
+      title: Tumor Suppressor Genes
+    title: Oncogenes and Tumor Suppressor Genes
+  - number: 3
+    subsubsections:
+    - number: 1
+      title: Genetic Mutations in Cancer
+    - number: 2
+      title: Inherited Cancer Syndromes
+    - number: 3
+      title: Epigenetic Changes in Cancer
+    - number: 4
+      title: Genomic Instability in Cancer
+    - number: 5
+      title: Cancer Genomics
+    title: Cancer Genetics
+  - number: 4
+    subsubsections:
+    - number: 1
+      title: Chemotherapy
+    - number: 2
+      title: Radiation Therapy
+    - number: 3
+      title: Immunotherapy
+    - number: 4
+      title: Targeted Therapy
+    - number: 5
+      title: Hormone Therapy
+    title: Cancer Therapies
+  - number: 5
+    subsubsections:
+    - number: 1
+      title: Advances in Cancer Research
+    - number: 2
+      title: Emerging Technologies in Cancer Research
+    - number: 3
+      title: Precision Medicine in Cancer Research
+    - number: 4
+      title: Immunotherapy in Cancer Research
+    - number: 5
+      title: Future Directions in Cancer Research
+    title: Cancer Research and Future Directions
+  title: Cancer Biology

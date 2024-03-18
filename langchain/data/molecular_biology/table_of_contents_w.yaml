@@ -1,0 +1,131 @@
+sections:
+- number: 1
+  subsections:
+  - number: 1
+    title: Overview
+  - number: 2
+    title: Historical Background
+  - number: 3
+    title: Key Concepts
+  - number: 4
+    title: Techniques and Tools
+  - number: 5
+    title: Ethical Considerations
+  title: Introduction
+- number: 2
+  subsections:
+  - number: 1
+    title: DNA Structure
+  - number: 2
+    title: DNA Replication
+  - number: 3
+    title: Enzymes Involved in Replication
+  - number: 4
+    title: Regulation of Replication
+  - number: 5
+    title: Replication Errors and Repair Mechanisms
+  title: DNA Structure and Replication
+- number: 3
+  subsections:
+  - number: 1
+    title: Transcription Process
+  - number: 2
+    title: RNA Polymerase and Transcription Factors
+  - number: 3
+    title: RNA Processing
+  - number: 4
+    title: Regulation of Transcription
+  - number: 5
+    title: Alternative Splicing
+  title: Transcription and RNA Processing
+- number: 4
+  subsections:
+  - number: 1
+    title: Translation Process
+  - number: 2
+    title: Ribosomes and tRNA
+  - number: 3
+    title: Initiation, Elongation, and Termination
+  - number: 4
+    title: Post-Translational Modifications
+  - number: 5
+    title: Regulation of Translation
+  title: Translation and Protein Synthesis
+- number: 5
+  subsections:
+  - number: 1
+    title: Transcriptional Regulation
+  - number: 2
+    title: Epigenetic Regulation
+  - number: 3
+    title: Post-Transcriptional Regulation
+  - number: 4
+    title: Regulatory Networks
+  - number: 5
+    title: Developmental Gene Regulation
+  title: Gene Regulation
+- number: 6
+  subsections:
+  - number: 1
+    title: Types of Genetic Variation
+  - number: 2
+    title: Mutation and Mutagenesis
+  - number: 3
+    title: Genetic Diseases
+  - number: 4
+    title: Genetic Testing and Counseling
+  - number: 5
+    title: Genome Editing
+  title: Genetic Variation and Mutation
+- number: 7
+  subsections:
+  - number: 1
+    title: Genome Sequencing
+  - number: 2
+    title: Genome Annotation
+  - number: 3
+    title: Comparative Genomics
+  - number: 4
+    title: Functional Genomics
+  - number: 5
+    title: Bioinformatics Tools and Databases
+  title: Genomics and Bioinformatics
+- number: 8
+  subsections:
+  - number: 1
+    title: Recombinant DNA Technology
+  - number: 2
+    title: Gene Cloning and Expression
+  - number: 3
+    title: Genetic Engineering
+  - number: 4
+    title: Transgenic Organisms
+  - number: 5
+    title: Applications in Medicine and Agriculture
+  title: Molecular Genetics and Biotechnology
+- number: 9
+  subsections:
+  - number: 1
+    title: Cell Communication
+  - number: 2
+    title: Signal Transduction Pathways
+  - number: 3
+    title: Receptor Proteins
+  - number: 4
+    title: Intracellular Signaling
+  - number: 5
+    title: Cell Signaling and Disease
+  title: Cell Signaling and Signal Transduction
+- number: 10
+  subsections:
+  - number: 1
+    title: Cancer Development and Progression
+  - number: 2
+    title: Oncogenes and Tumor Suppressor Genes
+  - number: 3
+    title: Cancer Genetics
+  - number: 4
+    title: Cancer Therapies
+  - number: 5
+    title: Cancer Research and Future Directions
+  title: Cancer Biology

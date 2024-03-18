@@ -1,0 +1,812 @@
+CONCEPT,RANK,PARENT,LOCK
+molecular biology,0,,1
+chromosome,1,molecular biology,0
+gene,1,molecular biology,0
+DNA polymerase,1,molecular biology,0
+helicase,1,molecular biology,0
+primase,1,molecular biology,0
+ligase,1,molecular biology,0
+messenger RNA,1,molecular biology,0
+transfer RNA,1,molecular biology,0
+ribosomal RNA,1,molecular biology,0
+anticodon,1,molecular biology,0
+amino acids,1,molecular biology,0
+polypeptide chain,1,molecular biology,0
+central dogma of molecular biology.,1,molecular biology,0
+transcription factors,1,molecular biology,0
+inducible,1,molecular biology,0
+repressible,1,molecular biology,0
+transcriptional insulator,1,molecular biology,0
+Protein folding accuracy,1,molecular biology,0
+Protein folding regulation,1,molecular biology,0
+Cell surface receptor,1,molecular biology,0
+Intracellular receptor,1,molecular biology,0
+Synaptic signaling,1,molecular biology,0
+Gap junction,1,molecular biology,0
+Hormone,1,molecular biology,0
+Neurotransmitter,1,molecular biology,0
+Cytokine,1,molecular biology,0
+G protein-coupled receptor,1,molecular biology,0
+Signal transduction complex,1,molecular biology,0
+Signal transduction network,1,molecular biology,0
+Signal transduction feedback,1,molecular biology,0
+Signal transduction regulation,1,molecular biology,0
+Signal transduction dysfunction,1,molecular biology,0
+enzyme deficiency,1,molecular biology,0
+biological processes.,1,molecular biology,0
+Molecular cloning,1,molecular biology,0
+ligation,1,molecular biology,0
+transfection,1,molecular biology,0
+expression vector,1,molecular biology,0
+protein production,1,molecular biology,0
+genome editing,1,molecular biology,0
+recombinant technology,1,molecular biology,0
+gene manipulation,1,molecular biology,0
+gene knockdown,1,molecular biology,0
+gene structure,1,molecular biology,0
+gene sequence,1,molecular biology,0
+gene library,1,molecular biology,0
+gene bank,1,molecular biology,0
+gene isolation,1,molecular biology,0
+gene identification,1,molecular biology,0
+gene mapping,1,molecular biology,0
+gene sequencing,1,molecular biology,0
+gene analysis,1,molecular biology,0
+gene mutation analysis,1,molecular biology,0
+gene function analysis,1,molecular biology,0
+gene knockout analysis,1,molecular biology,0
+gene therapy development,1,molecular biology,0
+gene therapy clinical trials,1,molecular biology,0
+gene therapy treatment,1,molecular biology,0
+gene therapy delivery,1,molecular biology,0
+gene therapy efficacy,1,molecular biology,0
+gene therapy future prospects.,1,molecular biology,0
+Epigenetics,1,molecular biology,0
+histones,1,molecular biology,0
+histone modifications,1,molecular biology,0
+epigenetic marks,1,molecular biology,0
+chromatin condensation,1,molecular biology,0
+chromatin accessibility,1,molecular biology,0
+histone variants,1,molecular biology,0
+epigenome,1,molecular biology,0
+epigenetic changes,1,molecular biology,0
+epigenetic mechanisms,1,molecular biology,0
+histone code,1,molecular biology,0
+histone chaperones,1,molecular biology,0
+chromatin looping,1,molecular biology,0
+histone deacetylation,1,molecular biology,0
+histone demethylation,1,molecular biology,0
+histone phosphorylation,1,molecular biology,0
+histone ubiquitination,1,molecular biology,0
+histone sumoylation,1,molecular biology,0
+histone crotonylation,1,molecular biology,0
+histone citrullination,1,molecular biology,0
+histone glycosylation,1,molecular biology,0
+histone biotinylation,1,molecular biology,0
+histone ADP-ribosylation,1,molecular biology,0
+histone arginine methylation,1,molecular biology,0
+histone lysine methylation,1,molecular biology,0
+histone serine/threonine phosphorylation,1,molecular biology,0
+chromatin modifiers,1,molecular biology,0
+chromatin readers,1,molecular biology,0
+chromatin writers,1,molecular biology,0
+chromatin erasers,1,molecular biology,0
+epigenetic drugs,1,molecular biology,0
+epigenetic therapies,1,molecular biology,0
+epigenetic biomarkers,1,molecular biology,0
+epigenetic diseases,1,molecular biology,0
+epigenetic disorders,1,molecular biology,0
+epigenetic research,1,molecular biology,0
+epigenetic techniques,1,molecular biology,0
+epigenetic assays,1,molecular biology,0
+epigenetic analysis,1,molecular biology,0
+epigenetic profiling,1,molecular biology,0
+epigenetic sequencing,1,molecular biology,0
+protein-ligand interactions,1,molecular biology,0
+molecular dynamics simulations,1,molecular biology,0
+structural bioinformatics,1,molecular biology,0
+functional genomics,1,molecular biology,0
+mass spectrometry,1,molecular biology,0
+pathway analysis,1,molecular biology,0
+network analysis,1,molecular biology,0
+biological databases,1,molecular biology,0
+sequence analysis tools,1,molecular biology,0
+statistical analysis,1,molecular biology,0
+computational modeling,1,molecular biology,0
+algorithm development,1,molecular biology,0
+parallel computing,1,molecular biology,0
+cloud computing,1,molecular biology,0
+big data,1,molecular biology,0
+bioinformatics pipelines,1,molecular biology,0
+data integration,1,molecular biology,0
+data visualization,1,molecular biology,0
+data analysis,1,molecular biology,0
+data interpretation,1,molecular biology,0
+biomarker discovery,1,molecular biology,0
+drug discovery,1,molecular biology,0
+precision medicine,1,molecular biology,0
+personalized medicine,1,molecular biology,0
+biomedical informatics,1,molecular biology,0
+medical informatics,1,molecular biology,0
+clinical informatics,1,molecular biology,0
+health informatics,1,molecular biology,0
+informatics infrastructure,1,molecular biology,0
+informatics standards,1,molecular biology,0
+informatics ethics,1,molecular biology,0
+informatics education,1,molecular biology,0
+informatics research,1,molecular biology,0
+informatics applications,1,molecular biology,0
+informatics challenges,1,molecular biology,0
+inducer,1,molecular biology,0
+silencer,1,molecular biology,0
+gene regulation network,1,molecular biology,0
+transcriptional co-activator complex,1,molecular biology,0
+transcriptional co-repressor complex,1,molecular biology,0
+transcriptional regulatory element,1,molecular biology,0
+transcriptional regulatory protein,1,molecular biology,0
+transcriptional regulatory network,1,molecular biology,0
+transcriptional regulatory cascade,1,molecular biology,0
+transcriptional regulatory feedback loop,1,molecular biology,0
+transcriptional regulatory motif,1,molecular biology,0
+transcriptional regulatory region,1,molecular biology,0
+transcriptional regulatory sequence,1,molecular biology,0
+transcriptional regulatory factor,1,molecular biology,0
+transcriptional regulatory pathway,1,molecular biology,0
+transcriptional regulatory mechanism,1,molecular biology,0
+transcriptional regulatory circuit,1,molecular biology,0
+transcriptional regulatory module,1,molecular biology,0
+transcriptional regulatory switch,1,molecular biology,0
+Proteinsynthesis,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+Protein folding mutations,1,molecular biology,0
+noncompetitive inhibition,1,molecular biology,0
+turnover number,1,molecular biology,0
+optimal pH,1,molecular biology,0
+optimal temperature,1,molecular biology,0
+industrial applications.,1,molecular biology,0
+G-protein coupled receptor,1,molecular biology,0
+Enzyme-linked receptor,1,molecular biology,0
+Ion channel-linked receptor,1,molecular biology,0
+Chemokines,1,molecular biology,0
+Signal termination,1,molecular biology,0
+Signal integration,1,molecular biology,0
+Signal transduction pathway,1,molecular biology,0
+Signal cascade,1,molecular biology,0
+Signal transducers,1,molecular biology,0
+Signal modulators,1,molecular biology,0
+Signal transduction inhibitors,1,molecular biology,0
+Cell signaling disorders,1,molecular biology,0
+Cell communication disorders,1,molecular biology,0
+allele,1,molecular biology,0
+homozygous,1,molecular biology,0
+heterozygous,1,molecular biology,0
+dominant,1,molecular biology,0
+recessive,1,molecular biology,0
+pedigree analysis,1,molecular biology,0
+genetic screening,1,molecular biology,0
+epigenetic inheritance,1,molecular biology,0
+DNA replication,1,molecular biology,0
+DNA repair,1,molecular biology,0
+genetic adaptation,1,molecular biology,0
+RNA processing,1,molecular biology,0
+splicing,1,molecular biology,0
+phylogenetic tree,1,molecular biology,0
+homology modeling,1,molecular biology,0
+gene regulatory networks,1,molecular biology,0
+sequence evolution,1,molecular biology,0
+sequence clustering,1,molecular biology,0
+sequence alignment software,1,molecular biology,0
+sequence alignment databases,1,molecular biology,0
+sequence alignment visualization,1,molecular biology,0
+sequence alignment metrics,1,molecular biology,0
+sequence alignment scoring,1,molecular biology,0
+sequence alignment accuracy,1,molecular biology,0
+sequence alignment sensitivity,1,molecular biology,0
+sequence alignment specificity,1,molecular biology,0
+sequence alignment precision,1,molecular biology,0
+sequence alignment recall,1,molecular biology,0
+sequence alignment F-score,1,molecular biology,0
+sequence alignment gap penalties,1,molecular biology,0
+sequence alignment substitution matrices,1,molecular biology,0
+sequence alignment gap opening penalties,1,molecular biology,0
+sequence alignment gap extension penalties,1,molecular biology,0
+sequence alignment affine gap penalties,1,molecular biology,0
+sequence alignment local alignment,1,molecular biology,0
+sequence alignment global alignment,1,molecular biology,0
+sequence alignment semi-global alignment,1,molecular biology,0
+sequence alignment multiple sequence alignment,1,molecular biology,0
+sequence alignment pairwise alignment,1,molecular biology,0
+sequence alignment progressive alignment,1,molecular biology,0
+sequence alignment iterative alignment,1,molecular biology,0
+sequence alignment heuristic methods,1,molecular biology,0
+sequence alignment dynamic programming,1,molecular biology,0
+sequence alignment alignment algorithms,1,molecular biology,0
+sequence alignment alignment tools,1,molecular biology,0
+sequence alignment alignment software,1,molecular biology,0
+sequence alignment alignment databases,1,molecular biology,0
+base pairs,1,molecular biology,0
+deoxyribose,1,molecular biology,0
+phosphate group,1,molecular biology,0
+post-transcriptional modification,1,molecular biology,0
+post-translational modification,1,molecular biology,0
+operon,1,molecular biology,0
+Protein folding pathway,1,molecular biology,0
+Protein conformation,1,molecular biology,0
+Protein misfolding,1,molecular biology,0
+Protein aggregation,1,molecular biology,0
+Protein degradation,1,molecular biology,0
+Chaperonopathies,1,molecular biology,0
+Proteostasis network,1,molecular biology,0
+Protein folding machinery,1,molecular biology,0
+Protein folding assays,1,molecular biology,0
+Protein folding therapies,1,molecular biology,0
+Protein folding research.,1,molecular biology,0
+induced fit,1,molecular biology,0
+enzyme concentration,1,molecular biology,0
+denaturation,1,molecular biology,0
+metabolic pathways,1,molecular biology,0
+biological processes,1,molecular biology,0
+pharmaceuticals,1,molecular biology,0
+food industry,1,molecular biology,0
+disease treatment,1,molecular biology,0
+enzyme characterization,1,molecular biology,0
+enzyme kinetics analysis,1,molecular biology,0
+enzyme structure,1,molecular biology,0
+enzyme function,1,molecular biology,0
+enzyme classification,1,molecular biology,0
+enzyme nomenclature,1,molecular biology,0
+enzyme evolution,1,molecular biology,0
+enzyme diversity,1,molecular biology,0
+enzyme specificity,1,molecular biology,0
+enzyme stability,1,molecular biology,0
+enzyme inhibition,1,molecular biology,0
+enzyme activation,1,molecular biology,0
+enzyme deactivation,1,molecular biology,0
+enzyme turnover,1,molecular biology,0
+enzyme turnover number,1,molecular biology,0
+enzyme turnover rate,1,molecular biology,0
+enzyme turnover efficiency,1,molecular biology,0
+enzyme turnover capacity,1,molecular biology,0
+enzyme turnover limit,1,molecular biology,0
+enzyme turnover cycle,1,molecular biology,0
+enzyme turnover pathway,1,molecular biology,0
+enzyme turnover mechanism,1,molecular biology,0
+enzyme turnover regulation,1,molecular biology,0
+enzyme turnover control,1,molecular biology,0
+enzyme turnover optimization,1,molecular biology,0
+enzyme turnover enhancement,1,molecular biology,0
+enzyme turnover inhibition,1,molecular biology,0
+enzyme turnover stimulation,1,molecular biology,0
+enzyme turnover modulation,1,molecular biology,0
+enzyme,1,molecular biology,0
+Cell survival,1,molecular biology,0
+Cellular signaling diseases,1,molecular biology,0
+Molecular techniques,1,molecular biology,0
+tools,1,molecular biology,0
+PCR,1,molecular biology,0
+cloning,1,molecular biology,0
+sequencing,1,molecular biology,0
+phylogenetics,1,molecular biology,0
+genome annotation,1,molecular biology,0
+sequence assembly,1,molecular biology,0
+sequence database,1,molecular biology,0
+sequence motif,1,molecular biology,0
+sequence motif discovery,1,molecular biology,0
+sequence motif scoring,1,molecular biology,0
+sequence motif identification,1,molecular biology,0
+sequence motif classification,1,molecular biology,0
+sequence motif annotation,1,molecular biology,0
+sequence motif comparison,1,molecular biology,0
+sequence motif search,1,molecular biology,0
+sequence motif alignment,1,molecular biology,0
+sequence motif extraction,1,molecular biology,0
+sequence motif modeling,1,molecular biology,0
+sequence motif generation,1,molecular biology,0
+sequence motif evaluation,1,molecular biology,0
+sequence motif validation,1,molecular biology,0
+sequence motif optimization,1,molecular biology,0
+sequence motif design,1,molecular biology,0
+sequence motif engineering,1,molecular biology,0
+sequence motif manipulation,1,molecular biology,0
+sequence motif manipulation tools,1,molecular biology,0
+sequence motif analysis software,1,molecular biology,0
+sequence motif prediction software,1,molecular biology,0
+sequence motif visualization software,1,molecular biology,0
+sequence motif scoring software,1,molecular biology,0
+sequence motif identification software,1,molecular biology,0
+sequence motif classification software,1,molecular biology,0
+sequence motif annotation software,1,molecular biology,0
+sequence motif comparison software,1,molecular biology,0
+sequence motif search software,1,molecular biology,0
+sequence motif alignment software,1,molecular biology,0
+sequence motif extraction software,1,molecular biology,0
+sequence motif recognition software,1,molecular biology,0
+sequence motif modeling software,1,molecular biology,0
+sequence motif generation software,1,molecular biology,0
+sequence motif evaluation software,1,molecular biology,0
+sequence motif validation software,1,molecular biology,0
+,1,molecular biology,0
+Metabolism,1,molecular biology,0
+metabolic pathways,1,molecular biology,0
+anabolism,1,molecular biology,0
+catabolism,1,molecular biology,0
+enzymes,1,molecular biology,0
+substrates,1,molecular biology,0
+products,1,molecular biology,0
+energy,1,molecular biology,0
+ATP,1,molecular biology,0
+glycolysis,1,molecular biology,0
+Krebs cycle,1,molecular biology,0
+electron transport chain,1,molecular biology,0
+oxidative phosphorylation,1,molecular biology,0
+fermentation,1,molecular biology,0
+gluconeogenesis,1,molecular biology,0
+lipogenesis,1,molecular biology,0
+lipolysis,1,molecular biology,0
+glycogenesis,1,molecular biology,0
+glycogenolysis,1,molecular biology,0
+amino acid metabolism,1,molecular biology,0
+fatty acid metabolism,1,molecular biology,0
+carbohydrate metabolism,1,molecular biology,0
+protein metabolism,1,molecular biology,0
+metabolic regulation,1,molecular biology,0
+metabolic disorders,1,molecular biology,0
+metabolic rate,1,molecular biology,0
+metabolic waste,1,molecular biology,0
+metabolic syndrome,1,molecular biology,0
+metabolic flux,1,molecular biology,0
+metabolic network,1,molecular biology,0
+metabolic pathways analysis,1,molecular biology,0
+metabolic engineering,1,molecular biology,0
+metabolic profiling,1,molecular biology,0
+metabolic diseases,1,molecular biology,0
+metabolic pathways database,1,molecular biology,0
+treatment,1,molecular biology,0
+DNA,1,molecular biology,0
+structure,1,molecular biology,0
+function,1,molecular biology,0
+nucleotides,1,molecular biology,0
+double helix,1,molecular biology,0
+sugar-phosphate backbone,1,molecular biology,0
+nitrogenous bases,1,molecular biology,0
+adenine,1,molecular biology,0
+thymine,1,molecular biology,0
+guanine,1,molecular biology,0
+cytosine,1,molecular biology,0
+hydrogen bonds,1,molecular biology,0
+complementary base pairing,1,molecular biology,0
+replication,1,molecular biology,0
+transcription,1,molecular biology,0
+translation,1,molecular biology,0
+genetic code,1,molecular biology,0
+gene expression,1,molecular biology,0
+protein synthesis,1,molecular biology,0
+mutation,1,molecular biology,0
+genetic variation,1,molecular biology,0
+heredity,1,molecular biology,0
+genetic information,1,molecular biology,0
+genome,1,molecular biology,0
+chromosomes,1,molecular biology,0
+genes,1,molecular biology,0
+alleles,1,molecular biology,0
+genotype,1,molecular biology,0
+phenotype,1,molecular biology,0
+DNA sequencing,1,molecular biology,0
+DNA fingerprinting,1,molecular biology,0
+genetic engineering,1,molecular biology,0
+recombinant DNA,1,molecular biology,0
+gene therapy,1,molecular biology,0
+polymerase chain reaction,1,molecular biology,0
+restriction enzymes,1,molecular biology,0
+plasmid,1,molecular biology,0
+vector,1,molecular biology,0
+transgenic organism,1,molecular biology,0
+gene editing,1,molecular biology,0
+CRISPR-Cas9,1,molecular biology,0
+Gene expression,1,molecular biology,0
+regulation,1,molecular biology,0
+transcription,1,molecular biology,0
+translation,1,molecular biology,0
+promoter,1,molecular biology,0
+enhancer,1,molecular biology,0
+repressor,1,molecular biology,0
+activator,1,molecular biology,0
+transcription factor,1,molecular biology,0
+RNA polymerase,1,molecular biology,0
+mRNA,1,molecular biology,0
+ribosome,1,molecular biology,0
+codon,1,molecular biology,0
+amino acid,1,molecular biology,0
+protein,1,molecular biology,0
+transcriptional control,1,molecular biology,0
+post-transcriptional control,1,molecular biology,0
+translational control,1,molecular biology,0
+post-translational control,1,molecular biology,0
+epigenetic regulation,1,molecular biology,0
+chromatin remodeling,1,molecular biology,0
+histone modification,1,molecular biology,0
+DNA methylation,1,molecular biology,0
+RNA interference,1,molecular biology,0
+microRNA,1,molecular biology,0
+siRNA,1,molecular biology,0
+gene silencing,1,molecular biology,0
+gene activation,1,molecular biology,0
+transcriptional regulation,1,molecular biology,0
+translational regulation,1,molecular biology,0
+post-transcriptional regulation,1,molecular biology,0
+post-translational regulation,1,molecular biology,0
+epigenetic control,1,molecular biology,0
+chromatin structure,1,molecular biology,0
+histone acetylation,1,molecular biology,0
+histone methylation,1,molecular biology,0
+DNA demethylation,1,molecular biology,0
+RNA degradation,1,molecular biology,0
+protein modification,1,molecular biology,0
+protein degradation,1,molecular biology,0
+gene expression profiling,1,molecular biology,0
+gene regulatory network,1,molecular biology,0
+transcriptional machinery,1,molecular biology,0
+translation machinery,1,molecular biology,0
+regulatory sequence,1,molecular biology,0
+cis-acting element,1,molecular biology,0
+trans-acting factor,1,molecular biology,0
+transcriptional activator,1,molecular biology,0
+transcriptional repressor,1,molecular biology,0
+transcriptional enhancer,1,molecular biology,0
+transcriptional silencer,1,molecular biology,0
+transcriptional coactivator,1,molecular biology,0
+transcriptional corepressor,1,molecular biology,0
+transcriptional mediator,1,molecular biology,0
+transcriptional co-repressor,1,molecular biology,0
+transcriptional co-activator,1,molecular biology,0
+transcriptional co-repressor,1,molecular biology,0
+transcriptional co,1,molecular biology,0
+Protein synthesis,1,molecular biology,0
+Folding,1,molecular biology,0
+Amino acids,1,molecular biology,0
+Ribosomes,1,molecular biology,0
+mRNA,1,molecular biology,0
+tRNA,1,molecular biology,0
+Translation,1,molecular biology,0
+Transcription,1,molecular biology,0
+Polypeptide chain,1,molecular biology,0
+Peptide bonds,1,molecular biology,0
+Chaperones,1,molecular biology,0
+Protein folding pathways,1,molecular biology,0
+Misfolding,1,molecular biology,0
+Aggregation,1,molecular biology,0
+Protein structure,1,molecular biology,0
+Protein function,1,molecular biology,0
+Protein stability,1,molecular biology,0
+Protein quality control,1,molecular biology,0
+Protein homeostasis,1,molecular biology,0
+Protein misfolding diseases,1,molecular biology,0
+Proteostasis,1,molecular biology,0
+Proteinsynthesis machinery,1,molecular biology,0
+Protein folding intermediates,1,molecular biology,0
+Protein folding energy landscape,1,molecular biology,0
+Protein folding kinetics,1,molecular biology,0
+Protein folding thermodynamics,1,molecular biology,0
+Protein folding chaperones,1,molecular biology,0
+Protein folding enzymes,1,molecular biology,0
+Protein folding factors,1,molecular biology,0
+Protein folding diseases,1,molecular biology,0
+Protein folding disorders,1,molecular biology,0
+Protein folding inhibitors,1,molecular biology,0
+Protein folding modulators,1,molecular biology,0
+Protein folding regulators,1,molecular biology,0
+Protein folding pathways,1,molecular biology,0
+Protein folding mechanisms,1,molecular biology,0
+Protein folding models,1,molecular biology,0
+Protein folding simulations,1,molecular biology,0
+Protein folding algorithms,1,molecular biology,0
+Protein folding prediction,1,molecular biology,0
+Protein folding stability,1,molecular biology,0
+Protein folding efficiency,1,molecular biology,0
+Protein folding fidelity,1,molecular biology,0
+Protein folding checkpoints,1,molecular biology,0
+Protein folding checkpoints,1,molecular biology,0
+Protein folding checkpoints,1,molecular biology,0
+Protein folding checkpoints,1,molecular biology,0
+Protein folding checkpoints,1,molecular biology,0
+Protein folding checkpoints,1,molecular biology,0
+Protein folding checkpoints,1,molecular biology,0
+Protein folding checkpoints,1,molecular biology,0
+Protein folding checkpoints,1,molecular biology,0
+Protein folding checkpoints,1,molecular biology,0
+Protein folding,1,molecular biology,0
+Enzymes,1,molecular biology,0
+biochemical reactions,1,molecular biology,0
+substrate,1,molecular biology,0
+active site,1,molecular biology,0
+specificity,1,molecular biology,0
+catalysis,1,molecular biology,0
+activation energy,1,molecular biology,0
+transition state,1,molecular biology,0
+lock and key model,1,molecular biology,0
+induced fit model,1,molecular biology,0
+cofactors,1,molecular biology,0
+coenzymes,1,molecular biology,0
+inhibitors,1,molecular biology,0
+competitive inhibition,1,molecular biology,0
+non-competitive inhibition,1,molecular biology,0
+allosteric regulation,1,molecular biology,0
+feedback inhibition,1,molecular biology,0
+enzyme kinetics,1,molecular biology,0
+Michaelis-Menten equation,1,molecular biology,0
+Vmax,1,molecular biology,0
+Km,1,molecular biology,0
+enzyme-substrate complex,1,molecular biology,0
+enzyme activity,1,molecular biology,0
+enzyme regulation,1,molecular biology,0
+enzyme denaturation,1,molecular biology,0
+pH,1,molecular biology,0
+temperature,1,molecular biology,0
+optimal conditions,1,molecular biology,0
+enzyme assays,1,molecular biology,0
+enzyme purification,1,molecular biology,0
+enzyme immobilization,1,molecular biology,0
+enzyme engineering,1,molecular biology,0
+biocatalysis,1,molecular biology,0
+biotechnology.,1,molecular biology,0
+Cell signaling,1,molecular biology,0
+Communication,1,molecular biology,0
+Receptor,1,molecular biology,0
+Ligand,1,molecular biology,0
+Signal transduction,1,molecular biology,0
+Second messenger,1,molecular biology,0
+Signal amplification,1,molecular biology,0
+Cellular response,1,molecular biology,0
+Autocrine signaling,1,molecular biology,0
+Paracrine signaling,1,molecular biology,0
+Endocrine signaling,1,molecular biology,0
+Neurotransmitters,1,molecular biology,0
+Hormones,1,molecular biology,0
+Cytokines,1,molecular biology,0
+Growth factors,1,molecular biology,0
+Chemical messengers,1,molecular biology,0
+Cell surface receptors,1,molecular biology,0
+Intracellular receptors,1,molecular biology,0
+G protein-coupled receptors,1,molecular biology,0
+Enzyme-linked receptors,1,molecular biology,0
+Ion channel receptors,1,molecular biology,0
+Signal transduction pathways,1,molecular biology,0
+Phosphorylation,1,molecular biology,0
+Dephosphorylation,1,molecular biology,0
+Protein kinases,1,molecular biology,0
+Protein phosphatases,1,molecular biology,0
+Gene expression,1,molecular biology,0
+Cellular metabolism,1,molecular biology,0
+Cell growth,1,molecular biology,0
+Cell differentiation,1,molecular biology,0
+Cell death,1,molecular biology,0
+Cell migration,1,molecular biology,0
+Cell adhesion,1,molecular biology,0
+Cellular communication,1,molecular biology,0
+Cellular homeostasis,1,molecular biology,0
+Cellular signaling networks,1,molecular biology,0
+Cellular crosstalk,1,molecular biology,0
+Cellular signaling disorders,1,molecular biology,0
+Cell signaling research,1,molecular biology,0
+Genetic mutations,1,molecular biology,0
+effects,1,molecular biology,0
+technical terms,1,molecular biology,0
+symbol,1,molecular biology,0
+Molecular genetics,1,molecular biology,0
+inheritance,1,molecular biology,0
+DNA,1,molecular biology,0
+RNA,1,molecular biology,0
+genes,1,molecular biology,0
+chromosomes,1,molecular biology,0
+nucleotides,1,molecular biology,0
+genotype,1,molecular biology,0
+phenotype,1,molecular biology,0
+alleles,1,molecular biology,0
+mutation,1,molecular biology,0
+genetic code,1,molecular biology,0
+transcription,1,molecular biology,0
+translation,1,molecular biology,0
+protein synthesis,1,molecular biology,0
+gene expression,1,molecular biology,0
+genetic variation,1,molecular biology,0
+genetic disorders,1,molecular biology,0
+genetic testing,1,molecular biology,0
+genetic counseling,1,molecular biology,0
+genetic engineering,1,molecular biology,0
+gene therapy,1,molecular biology,0
+genome,1,molecular biology,0
+genomics,1,molecular biology,0
+epigenetics,1,molecular biology,0
+gene regulation,1,molecular biology,0
+recombinant DNA,1,molecular biology,0
+genetic recombination,1,molecular biology,0
+genetic linkage,1,molecular biology,0
+genetic mapping,1,molecular biology,0
+genetic markers,1,molecular biology,0
+genetic drift,1,molecular biology,0
+gene flow,1,molecular biology,0
+natural selection,1,molecular biology,0
+genetic diversity,1,molecular biology,0
+genetic drift,1,molecular biology,0
+genetic bottleneck,1,molecular biology,0
+founder effect,1,molecular biology,0
+genetic drift,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+hardy-weinberg principle,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+genetic equilibrium,1,molecular biology,0
+gen,1,molecular biology,0
+Recombinant DNA technology,1,molecular biology,0
+genetic engineering,1,molecular biology,0
+DNA,1,molecular biology,0
+restriction enzymes,1,molecular biology,0
+plasmids,1,molecular biology,0
+gene cloning,1,molecular biology,0
+gene expression,1,molecular biology,0
+transformation,1,molecular biology,0
+transgenic organisms,1,molecular biology,0
+gene therapy,1,molecular biology,0
+genetic modification,1,molecular biology,0
+biotechnology,1,molecular biology,0
+genetic material,1,molecular biology,0
+recombinant DNA molecules,1,molecular biology,0
+genetic code,1,molecular biology,0
+genetic information,1,molecular biology,0
+genetic manipulation,1,molecular biology,0
+genetic variation,1,molecular biology,0
+gene editing,1,molecular biology,0
+CRISPR,1,molecular biology,0
+DNA sequencing,1,molecular biology,0
+gene splicing,1,molecular biology,0
+gene transfer,1,molecular biology,0
+gene amplification,1,molecular biology,0
+gene knockout,1,molecular biology,0
+gene insertion,1,molecular biology,0
+gene deletion,1,molecular biology,0
+gene duplication,1,molecular biology,0
+gene rearrangement,1,molecular biology,0
+gene targeting,1,molecular biology,0
+gene silencing,1,molecular biology,0
+gene regulation,1,molecular biology,0
+gene function,1,molecular biology,0
+gene product,1,molecular biology,0
+gene mutation,1,molecular biology,0
+gene expression analysis,1,molecular biology,0
+gene therapy vectors,1,molecular biology,0
+gene delivery,1,molecular biology,0
+gene editing tools,1,molecular biology,0
+gene drive,1,molecular biology,0
+gene flow,1,molecular biology,0
+gene pool,1,molecular biology,0
+gene drift,1,molecular biology,0
+gene conversion,1,molecular biology,0
+gene expression profiling,1,molecular biology,0
+gene knockout mice,1,molecular biology,0
+gene therapy trials,1,molecular biology,0
+gene therapy techniques,1,molecular biology,0
+gene therapy research,1,molecular biology,0
+gene therapy applications,1,molecular biology,0
+gene therapy challenges,1,molecular biology,0
+gene therapy ethics,1,molecular biology,0
+gene therapy safety,1,molecular biology,0
+gene therapy controversies,1,molecular biology,0
+gene therapy future,1,molecular biology,0
+gene therapy limitations,1,molecular biology,0
+gene therapy benefits,1,molecular biology,0
+gene therapy risks,1,molecular biology,0
+gene therapy success,1,molecular biology,0
+gene therapy failures,1,molecular biology,0
+gene therapy cost,1,molecular biology,0
+gene therapy availability,1,molecular biology,0
+gene therapy regulations,1,molecular biology,0
+gene therapy market,1,molecular biology,0
+gene therapy industry,1,molecular biology,0
+gene therapy companies,1,molecular biology,0
+gene therapy patents,1,molecular biology,0
+gene therapy patents,1,molecular biology,0
+gene therapy patents,1,molecular biology,0
+Bioinformatics,1,molecular biology,0
+computational biology,1,molecular biology,0
+sequence alignment,1,molecular biology,0
+genome assembly,1,molecular biology,0
+gene expression,1,molecular biology,0
+protein structure prediction,1,molecular biology,0
+phylogenetic analysis,1,molecular biology,0
+sequence analysis,1,molecular biology,0
+machine learning,1,molecular biology,0
+data mining,1,molecular biology,0
+sequence databases,1,molecular biology,0
+sequence annotation,1,molecular biology,0
+sequence similarity,1,molecular biology,0
+sequence homology,1,molecular biology,0
+sequence alignment algorithms,1,molecular biology,0
+sequence alignment tools,1,molecular biology,0
+gene prediction,1,molecular biology,0
+protein-protein interactions,1,molecular biology,0
+protein-protein docking,1,molecular biology,0
+protein function prediction,1,molecular biology,0
+metagenomics,1,molecular biology,0
+transcriptomics,1,molecular biology,0
+proteomics,1,molecular biology,0
+metabolomics,1,molecular biology,0
+systems biology,1,molecular biology,0
+high-throughput sequencing,1,molecular biology,0
+next-generation sequencing,1,molecular biology,0
+microarray analysis,1,molecular biology,0
+gene ontology,1,molecular biology,0
+biological networks,1,molecular biology,0
+sequence variation,1,molecular biology,0
+mutation analysis,1,molecular biology,0
+sequence conservation,1,molecular biology,0
+sequence motifs,1,molecular biology,0
+sequence motifs discovery,1,molecular biology,0
+sequence motif analysis,1,molecular biology,0
+sequence motif databases,1,molecular biology,0
+sequence motif prediction,1,molecular biology,0
+sequence motif recognition,1,molecular biology,0
+sequence motif matching,1,molecular biology,0
+sequence motif clustering,1,molecular biology,0
+sequence motif visualization,1,molecular biology,0
+sequence motif enrichment,1,molecular biology,0
+sequence motif enrichment analysis,1,molecular biology,0
+sequence motif enrichment tools,1,molecular biology,0
+sequence motif enrichment databases,1,molecular biology,0
+sequence motif enrichment visualization,1,molecular biology,0
+sequence motif enrichment algorithms,1,molecular biology,0
+sequence motif enrichment statistics,1,molecular biology,0
+sequence motif enrichment significance,1,molecular biology,0
+sequence motif enrichment p-value,1,molecular biology,0
+sequence motif enrichment false discovery rate,1,molecular biology,0
+sequence motif enrichment multiple testing correction,1,molecular biology,0
+sequence motif enrichment functional analysis,1,molecular biology,0
+sequence motif enrichment pathway analysis,1,molecular biology,0
+sequence motif enrichment gene ontology analysis,1,molecular biology,0
+sequence motif enrichment protein-protein interaction analysis,1,molecular biology,0
+sequence motif enrichment transcription factor binding site analysis,1,molecular biology,0
+sequence motif enrichment chrom,1,molecular biology,0
+Molecular basis,1,molecular biology,0
+diseases,1,molecular biology,0
+drug development,1,molecular biology,0
+technical terms,1,molecular biology,0
+extract,1,molecular biology,0
